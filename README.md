@@ -13,8 +13,8 @@ The "complex_network.dat" contains the graph mapped in this simulations, with:
 There is a total of 20 failures: 
 
 * 14 robot failures 
-* 04 cluster failures and 
-* 02 swarm failures. 
+* 4 cluster failures 
+* 2 swarm failures
  
 The environment is composed of 40 rooms and dimensions equal to 9,600 cells.
 
