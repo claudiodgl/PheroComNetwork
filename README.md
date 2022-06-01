@@ -29,7 +29,7 @@ The file format is:
 
 ## Paper submited
 
-Data set available for the paper submitted to BRACIS 2022.
+Data set available for the paper submitted to Brazilian Conference on Intelligent Systems (BRACIS) 2022.
 
 ## PheroCom description
 
