@@ -27,10 +27,6 @@ The file format is:
 * nodes ids varies from 1 to 12 (two first columns)
 * timestamps varies from 2 to 10,000
 
-## Paper submited
-
-Data set available for the paper submitted to Brazilian Conference on Intelligent Systems (BRACIS) 2022.
-
 ## PheroCom description
 
 The PheroCom model is originy described in: 
