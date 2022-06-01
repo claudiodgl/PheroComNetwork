@@ -4,7 +4,7 @@ PheroComNetwork represents a data set of simulations that models the evolution o
 
 ## Network description
 
-The "complex_network.dat" contains the graph mapped in this simulations, with:
+The "complex_network.dat" contains the temporal graph mapped in this simulations, with:
 
 * 12 nodes (robots)
 * 63,743 edges
