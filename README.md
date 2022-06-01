@@ -6,8 +6,9 @@ PheroComNetwork represents a data set of simulations that models the evolution o
 
 The "complex_network.dat" contains the graph mapped in this simulations, with:
 
-* 12 nodes (robots) 
-* 63,743 edges, distributed in 7 visiting cycles
+* 12 nodes (robots)
+* 63,743 edges
+* 10,000 timestamps
 
 There is a total of 20 failures: 
 
@@ -15,10 +16,23 @@ There is a total of 20 failures:
 * 04 cluster failures and 
 * 02 swarm failures. 
  
-The environment is composed of 40 rooms and dimensions equal to 9600 cells.
+The environment is composed of 40 rooms and dimensions equal to 9,600 cells.
 
 ## File description
+
+The file format is: 
+
+* node_origin (space) node_destiny (space) timestamp
+* each line represents a edge in a timestamp
+* nodes ids varies from 1 to 12 (two first columns)
+* timestamps varies from 2 to 10,000
 
 ## Paper submited
 
 Data set available for the paper submitted to BRACIS 2022.
+
+## PheroCom description
+
+The PheroCom model is originy described in: 
+
+* Tinoco, C. R., & Oliveira, G. M. B. (2022). PheroCom: Decentralised and asynchronous swarm robotics coordination based on virtual pheromone and vibroacoustic communication. arXiv. DOI: [https://doi.org/10.48550/arXiv.2202.13456](https://doi.org/10.48550/arXiv.2202.13456)
