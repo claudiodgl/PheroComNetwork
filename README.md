@@ -27,6 +27,10 @@ The file format is:
 * nodes ids varies from 1 to 12 (two first columns)
 * timestamps varies from 2 to 10,000
 
+## PheroComNetwork description
+
+* Linhares, C.D.G., Tinoco, C.R., Ponciano, J.R., Oliveira, G.M.B., Travençolo, B.A.N. (2022). A Network-Based Visual Analytics Approach for Performance Evaluation of Swarms of Robots in the Surveillance Task. In: Xavier-Junior, J.C., Rios, R.A. (eds) Intelligent Systems. BRACIS 2022. Lecture Notes in Computer Science(), vol 13653. Springer, Cham. DOI: [https://doi.org/10.1007/978-3-031-21686-2_5](https://doi.org/10.1007/978-3-031-21686-2_5)
+
 ## PheroCom description
 
 The PheroCom model is originy described in: 
